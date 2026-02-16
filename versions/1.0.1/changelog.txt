@@ -1,0 +1,2 @@
+# V1.0.1
+- Fixed play button connecting to the wrong server
