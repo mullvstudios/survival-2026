@@ -4,11 +4,14 @@
   "hotfixesFormat": null,
   "versions": [
     {
+      "id": "1.0.2",
+      "releasedAt": 1771242710,
+    {
       "id": "1.0.1",
-      "releasedAt": 1771242710
+      "releasedAt": 1771242710,
     {
       "id": "1.0.0",
-      "releasedAt": 1771186913
+      "releasedAt": 1771186913,
     },
   ]
 }
