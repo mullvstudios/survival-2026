@@ -52,8 +52,8 @@
         },
         {
             "id": "1.0.4",
-            "releasedAt": 1771353469,
-            "updateType": "minor",
+            "releasedAt": 1771354566563,
+            "updateType": "major",
             "promotions": {
                 "downloads": {
                     "modrinth": "https://modrinth.com/modpack/survival-2026",
@@ -62,6 +62,5 @@
                 }
             }
         },
-
     ]
 }
