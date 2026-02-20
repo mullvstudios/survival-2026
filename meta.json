@@ -60,6 +60,17 @@
                     "generic": "https://mullv.studio",
                     "curseforge": "https://map.mullv.studio"
                 }
+            },
+       {
+            "id": "1.1.0",
+            "releasedAt": 1771611633860,
+            "updateType": "incompatible",
+            "promotions": {
+                "downloads": {
+                    "modrinth": "https://modrinth.com/modpack/survival-2026",
+                    "generic": "https://mullv.studio",
+                    "curseforge": "https://map.mullv.studio"
+                }
             }
         }
     ]
