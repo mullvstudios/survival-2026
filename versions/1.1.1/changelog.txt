@@ -1,0 +1,27 @@
+# V 1.1.1
+
+## Performance Improvements
+
+### New Performance Mods
+
+- **[CreateBetterFps](https://modrinth.com/mod/lMYIHZNH)** [1.1.3] - Significantly improves FPS when using Create mod contraptions and large-scale factories
+- **[Flerovium](https://modrinth.com/mod/4Rh1Mobu)** [1.0.17] - Advanced rendering optimizations for smoother gameplay and reduced frame drops
+- **[Load Support](https://modrinth.com/mod/bnO15g6H)** [1.2.1] - Optimizes chunk loading and reduces stuttering during world exploration
+- **[ThreatenGL](https://modrinth.com/mod/RSFrpoou)** [2.0.4-release.10] - OpenGL optimization layer for improved shader performance and stability
+
+### Mod Updates
+
+- **[Blur+](https://modrinth.com/mod/NK39zBp2)** updated to [6.2.0] - Enhanced visual effects with improved performance and compatibility
+
+## Expected Performance Gains
+
+- Up to 30% FPS improvement in Create factories with active contraptions
+- Reduced stuttering during chunk loading and world generation
+- Better shader performance with ThreatenGL's OpenGL optimizations
+- Smoother overall gameplay experience, especially on mid-range hardware
+
+## Recommendation
+
+This update focuses purely on performance improvements with no gameplay changes. All existing worlds are fully compatible. Players experiencing FPS issues should see noticeable improvements, particularly when working with Create mod builds.
+
+*An official MullV Studios release - [mullv.studio](https://mullv.studio)*
