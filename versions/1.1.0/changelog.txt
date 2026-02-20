@@ -1,0 +1,6 @@
+# Version 1.1.0 — First Stable Release
+## Important: This update introduces breaking changes and is not backwards compatible.
+- Migrated base from Fabric to Neoforge
+- Refactored world generation logic for improved stability and consistency
+- Added several miscellaneous mods for enhanced gameplay experience
+- Achieved up to 30% performance improvement across systems
