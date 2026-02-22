@@ -1,4 +1,4 @@
-# V 1.0.4
+# V 0.2.2
 - Added backpacks
 - Added graves when dying
 - Added misc mods

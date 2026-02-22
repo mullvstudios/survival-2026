@@ -1,4 +1,4 @@
-# V 1.0.3
+# V 0.2.1
 - Added recepies mod
 - Updated the main menu
 - Fixed performance issues

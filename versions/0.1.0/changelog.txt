@@ -1,0 +1,284 @@
+# V 0.1.0
+
+## Initial Release | Minecraft 1.20.1 (Fabric)
+
+---
+
+### 🌍 World Generation & Exploration
+
+| Mod | Description |
+|-----|-------------|
+| **Biomes O' Plenty** | Adds 50+ new biomes with unique blocks, plants, and trees |
+| **Terralith** | Overhauls vanilla terrain generation with stunning landscapes |
+| **Tectonic** | Enhances world generation with realistic geology |
+| **TerraBlender** | API support for biome mods compatibility |
+| **Structory** | Adds atmospheric structures throughout the world |
+| **Structory Towers** | Additional tower structures for exploration |
+| **Towns and Towers** | New villages and towers scattered across the world |
+| **Better Village** | Enhanced village generation and aesthetics |
+| **Underground Village** | Discover villages hidden beneath the surface |
+| **Repurposed Structures** | Reimagines vanilla structures in new biomes |
+| **Deeper Oceans** | Expands ocean depth and generation |
+| **Fabric's End Remastered** | Complete End dimension overhaul |
+
+---
+
+### 🚀 Technology & Machinery
+
+| Mod | Description |
+|-----|-------------|
+| **Create** | Mechanical contraptions, automation, and steampunk engineering |
+| **Create: Steam 'n Rails** | Railway expansions with locomotives and decorative rails |
+| **Create: Bells and Whistles** | Additional Create decorations and tools |
+| **Create: Railways Navigator** | Advanced rail navigation system |
+| **Create: Structures Arise** | Create-themed structures in world generation |
+| **Create: Big Cannons** | Military-grade artillery for Create |
+| **Create: Nuke** | Explosive additions to Create |
+| **Create: Ore Excavation** | Automated mining with Create |
+| **Create: New Age** | Electricity and modern technology for Create |
+| **Create: Nuclear** | Nuclear power generation |
+| **Create: Interiors** | Interior decoration blocks for Create |
+| **Create: Threaded Trains** | Performance improvements for Create trains |
+| **Pantographs and Wires** | Electrical systems for railways |
+
+---
+
+### 🌌 Space Exploration
+
+| Mod | Description |
+|-----|-------------|
+| **Ad Astra** | Travel to the Moon, Mars, Venus, Mercury and beyond |
+| **Ad Astra: Rocketed** | Additional rockets and space content |
+| **Ad Astra Recipes** | Recipe adjustments for Ad Astra |
+
+---
+
+### ⚔️ Combat & Gameplay
+
+| Mod | Description |
+|-----|-------------|
+| **Better Combat** | Revamped combat animations and mechanics |
+| **Combat Roll** | Dodge roll ability for dynamic combat |
+| **RPG Difficulty** | Scaling difficulty based on distance and progression |
+| **Hardcore Revival** | Second chances with revival mechanics |
+| **Carry On** | Pick up and carry blocks and entities |
+| **Easy Anvils** | Quality of life improvements for anvils |
+| **Double Doors** | Automatically open double doors together |
+| **Waystones** | Teleportation network via craftable waystones |
+
+---
+
+### 🎨 Visual Enhancements
+
+| Mod | Description |
+|-----|-------------|
+| **Iris Shaders** | Shader support for Fabric |
+| **Sodium** | High-performance rendering engine |
+| **Distant Horizons** | Massive render distances with LOD system |
+| **Continuity** | Connected textures support |
+| **Enhanced Block Entities** | Improved block entity rendering |
+| **Entity Model Features** | Custom entity model support |
+| **Entity Texture Features** | Random/emissive mob textures |
+| **LambDynamicLights** | Dynamic lighting from held items |
+| **Falling Leaves** | Ambient leaf particles from trees |
+| **Cave Dust** | Atmospheric dust particles in caves |
+| **Explosive Enhancement** | Better explosion effects |
+| **Eating Animation** | Animated eating visuals |
+| **Not Enough Animations** | Additional player animations |
+| **Wavey Capes** | Physics-based cape animation |
+| **Capes** | Support for various cape mods |
+| **Fancy World Renderer** | Enhanced world rendering |
+| **Model Fix** | Fixes visual gaps in item models |
+
+---
+
+### 🔊 Audio Enhancements
+
+| Mod | Description |
+|-----|-------------|
+| **Presence Footsteps** | Realistic footstep sounds for all surfaces |
+| **Sound Physics Remastered** | Reverb and realistic sound propagation |
+| **Ambient Sounds** | Environmental ambience (birds, wind, etc.) |
+| **Immersive Thunder** | Enhanced thunder and storm sounds |
+| **Reactive Music** | Dynamic music based on gameplay |
+
+---
+
+### 💬 Social & Communication
+
+| Mod | Description |
+|-----|-------------|
+| **Simple Voice Chat** | Proximity voice chat |
+| **Voice Chat Interaction** | Voice chat integration features |
+| **Chat Heads** | Player heads shown in chat |
+| **Chat Animation** | Animated chat messages |
+| **No Chat Reports** | Disables chat reporting system |
+
+---
+
+### 🗺️ UI & Quality of Life
+
+| Mod | Description |
+|-----|-------------|
+| **Jade** | Comprehensive block/entity information tooltip |
+| **Jade Addons** | Extended Jade support for modded content |
+| **Antique Atlas** | Beautiful hand-drawn style map |
+| **AppleSkin** | Food/saturation visualization |
+| **Better F3** | Customizable debug screen |
+| **Better Third Person** | Improved third-person camera |
+| **Better Advancements** | Enhanced advancement screen |
+| **Advancement Info** | Detailed advancement requirements |
+| **Advancement Plaques** | Toast notifications for achievements |
+| **Advancement Screenshot** | Auto-screenshot on advancement |
+| **Traveler's Titles** | Biome entry notifications |
+| **Better Stats** | Improved statistics screen |
+| **Highlighter** | Highlights new items in inventory |
+| **Item Borders** | Colored borders for item rarity |
+| **Pick Up Notifier** | HUD notifications for picked items |
+| **Status Effect Bars** | Visual bars for status effects |
+| **Durability Tooltip** | Shows item durability in tooltip |
+| **Mod Menu** | In-game mod configuration menu |
+| **Almanac** | Information encyclopedia |
+| **Tom's Simple Storage** | Item storage and retrieval network |
+| **Visual Workbench** | Items visible on crafting tables |
+| **Zoomify** | Customizable zoom functionality |
+
+---
+
+### 📸 Media & Creative
+
+| Mod | Description |
+|-----|-------------|
+| **Exposure** | Functional camera mod for in-game photography |
+| **Yes Steve Model (YSM)** | Custom player model support |
+
+---
+
+### ⚡ Performance Optimization
+
+| Mod | Description |
+|-----|-------------|
+| **Sodium** | Modern rendering engine |
+| **Lithium** | General-purpose optimization |
+| **Indium** | Rendering API compatibility |
+| **FerriteCore** | Memory usage optimization |
+| **ModernFix** | Comprehensive performance fixes |
+| **ImmediatelyFast** | Immediate mode rendering optimization |
+| **Entity Culling** | Skip rendering hidden entities |
+| **More Culling** | Extended culling optimizations |
+| **C2ME** | Chunk generation multithreading |
+| **VMP** | Very Many Players optimization |
+| **Dynamic FPS** | Reduces FPS when unfocused |
+| **Enhanced Block Entities** | Optimized block entity rendering |
+
+---
+
+### 🛠️ Libraries & APIs
+
+| Mod | Description |
+|-----|-------------|
+| **Fabric API** | Core Fabric modding API |
+| **Fabric Language Kotlin** | Kotlin language support |
+| **Architectury** | Cross-platform mod development |
+| **Cloth Config** | Configuration library |
+| **Bookshelf** | Shared code library |
+| **Balm** | Abstraction layer library |
+| **Botarium** | Energy/fluid API library |
+| **CreativeCore** | Creative utilities library |
+| **Puzzles Lib** | Shared mod utilities |
+| **YUNG's API** | Structure generation API |
+| **GlitchCore** | Core library for mods |
+| **Iceberg** | Mod development library |
+| **MidnightLib** | Configuration library |
+| **Moonlight** | Shared utilities |
+| **owolib** | UI/config library |
+| **Player Animation Lib** | Animation framework |
+| **Resourceful Lib/Config** | Resource management |
+| **TCDCommons** | Common utilities |
+| And more supporting libraries... |
+
+---
+
+### 🎨 Included Resource Packs
+
+- **Faithful 64x** (Beta 9) - High resolution faithful textures
+- **Fresh Animations v1.10.3** - Animated mobs and entities
+- **Fresh Moves v3.1** - Player animation resource pack
+- **Tras Fresh Player v1.1** - Additional player animations
+- **Default Dark Mode** - Dark UI theme
+- **Better Lanterns v1.2** - Enhanced lantern textures
+- **Dramatic Skys Demo** - Beautiful sky textures
+- **Enhanced Boss Bars** - Improved boss bar visuals
+- **Waystones Update** - Waystone texture updates
+- **FA+ All Extensions** - Fresh Animations addons
+
+---
+
+### 🌈 Included Shader Packs
+
+- **Complementary Reimagined r5.7.1** + Euphoria Patches 1.8.5
+- **Complementary Unbound r5.7.1** + Euphoria Patches 1.8.5
+- **Rethinking Voxels r0.1-beta9**
+
+---
+
+### 🦗 Creature Additions
+
+| Mod | Description |
+|-----|-------------|
+| **Boids / Birds Boids** | Flocking birds in the world |
+| **Realistic Bees** | Improved bee behavior |
+| **Nyf's Spiders** | Enhanced spider AI and visuals |
+| **Let Me Despawn** | Fixes mob despawning issues |
+
+---
+
+### 🏠 Building & Decoration
+
+| Mod | Description |
+|-----|-------------|
+| **Macaw's Bridges** | Decorative bridge blocks |
+| **Macaw's Furniture** | Furniture and decoration blocks |
+| **Create: Interiors** | Interior decoration from Create |
+
+---
+
+### 🌦️ Seasons & Environment
+
+| Mod | Description |
+|-----|-------------|
+| **Fabric Seasons** (Beta) | Seasonal changes to the world |
+| **Enhanced Visuals** | Weather and damage screen effects |
+
+---
+
+### 📋 Additional Features
+
+- **Chunky** - Pre-generate chunks for server performance
+- **Seamless Loading Screen** - Smooth world transitions
+- **Drippy Loading Screen** - Custom loading screens
+- **FancyMenu** - Custom menu screens
+- **SpiffyHUD** - Customizable HUD
+- **Blur** - Background blur effects
+- **Scholar** - Lectern improvements
+- **Too Fast** - Removes "moved too quickly" kicks
+- **Resourcify** - Resource pack browser
+- **Language Reload** - Hot-reload language files
+- **YOSBR** - Your Options Shall Be Respected (preserves settings)
+
+---
+
+## 📝 Notes
+
+- **Minecraft Version:** 1.20.1
+- **Mod Loader:** Fabric
+- **Total Mods:** 170+
+- **Disabled Mods:** Create Track Map (optional)
+
+---
+
+## ⚠️ Requirements
+
+- Recommended RAM: 8GB+ allocated to Minecraft
+- Java 17 or higher
+- GPU with OpenGL 4.5+ support for shaders
