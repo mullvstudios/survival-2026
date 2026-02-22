@@ -4,7 +4,7 @@
   "hotfixesFormat": null,
   "versions": [
     {
-      "id": "1.0.0",
+      "id": "0.1.0",
       "releasedAt": 1771130274489,
       "promotions": {
         "downloads": {
@@ -15,7 +15,7 @@
       }
     },
     {
-      "id": "1.0.1",
+      "id": "0.1.1",
       "releasedAt": 1771220274485,
       "updateType": "minor",
       "promotions": {
@@ -27,7 +27,7 @@
       }
     },
     {
-      "id": "1.0.2",
+      "id": "0.2.0",
       "releasedAt": 1771240474485,
       "updateType": "minor",
       "promotions": {
@@ -39,7 +39,7 @@
       }
     },
     {
-      "id": "1.0.3",
+      "id": "0.2.1",
       "releasedAt": 1771350461254,
       "updateType": "minor",
       "promotions": {
@@ -51,7 +51,7 @@
       }
     },
     {
-      "id": "1.0.4",
+      "id": "0.2.2",
       "releasedAt": 1771354566563,
       "updateType": "major",
       "promotions": {
@@ -63,7 +63,7 @@
       }
     },
     {
-      "id": "1.1.0",
+      "id": "1.0.0",
       "releasedAt": 1771611633860,
       "updateType": "incompatible",
       "promotions": {
