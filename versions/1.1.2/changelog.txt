@@ -1,0 +1,23 @@
+# Survival 2026 - Version 1.1.2
+
+**Non-Premium Support Update**  
+
+## Added Mods
+
+- **[Be Quiet Negotiator](https://modrinth.com/mod/be-quiet-negotiator)** [1.0.1] - Allows modded clients to connect through Velocity proxy and auth systems without handshake errors
+
+## What's New
+
+Non-premium users can now join the MullV Network without issues. Previously, the authentication system redirected players to a limbo server that didn't support modded clients, causing connection failures. This mod bypasses NeoForge handshake negotiation when connecting through the proxy, letting you connect smoothly.
+
+## Technical Details
+
+The mod works by suppressing NeoForge's network negotiation when connecting to vanilla or non-NeoForge servers (like our Velocity proxy). This prevents disconnects during authentication without affecting gameplay once you're on the actual modded server.
+
+## Notes
+
+Fully compatible with existing worlds and all previous versions. Server-side changes were also made to support this workflow.
+
+***
+
+*MullV Studios - [mullv.studio](https://mullv.studio)*
