@@ -2,100 +2,101 @@
   "schemaVersion": 1,
   "requiresMpuc": 14,
   "hotfixesFormat": null,
-    "versions": [
-        {
-            "id": "1.0.0",
-            "releasedAt": 1771130274489,
-            "promotions": {
-                "downloads": {
-                    "modrinth": "https://modrinth.com/modpack/survival-2026",
-                    "generic": "https://mullv.studio",
-                    "curseforge": "https://map.mullv.studio"
-                }
-            }
-        },
-        {
-            "id": "1.0.1",
-            "releasedAt": 1771220274485,
-            "updateType": "minor",
-            "promotions": {
-                "downloads": {
-                    "modrinth": "https://modrinth.com/modpack/survival-2026",
-                    "generic": "https://mullv.studio",
-                    "curseforge": "https://map.mullv.studio"
-                }
-            }
-        },
-        {
-            "id": "1.0.2",
-            "releasedAt": 1771240474485,
-            "updateType": "minor",
-            "promotions": {
-                "downloads": {
-                    "modrinth": "https://modrinth.com/modpack/survival-2026",
-                    "generic": "https://mullv.studio",
-                    "curseforge": "https://map.mullv.studio"
-                }
-            }
-        },
-        {
-            "id": "1.0.3",
-            "releasedAt": 1771350461254,
-            "updateType": "minor",
-            "promotions": {
-                "downloads": {
-                    "modrinth": "https://modrinth.com/modpack/survival-2026",
-                    "generic": "https://mullv.studio",
-                    "curseforge": "https://map.mullv.studio"
-                }
-            }
-        },
-        {
-            "id": "1.0.4",
-            "releasedAt": 1771354566563,
-            "updateType": "major",
-            "promotions": {
-                "downloads": {
-                    "modrinth": "https://modrinth.com/modpack/survival-2026",
-                    "generic": "https://mullv.studio",
-                    "curseforge": "https://map.mullv.studio"
-                }
-            },
-        {
-            "id": "1.1.0",
-            "releasedAt": 1771611633860,
-            "updateType": "incompatible",
-            "promotions": {
-                "downloads": {
-                    "modrinth": "https://modrinth.com/modpack/survival-2026",
-                    "generic": "https://mullv.studio",
-                    "curseforge": "https://map.mullv.studio"
-                }
-            }
-        },
-      {
-            "id": "1.1.1",
-            "releasedAt": 1771623505953,
-            "updateType": "major",
-            "promotions": {
-                "downloads": {
-                    "modrinth": "https://modrinth.com/modpack/survival-2026",
-                    "generic": "https://mullv.studio",
-                    "curseforge": "https://map.mullv.studio"
-                }
-            }
-        },
-      {
-            "id": "1.1.2",
-            "releasedAt": 1771718918150,
-            "updateType": "major",
-            "promotions": {
-                "downloads": {
-                    "modrinth": "https://modrinth.com/modpack/survival-2026",
-                    "generic": "https://mullv.studio",
-                    "curseforge": "https://map.mullv.studio"
-                }
-            }
+  "versions": [
+    {
+      "id": "1.0.0",
+      "releasedAt": 1771130274489,
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "generic": "https://mullv.studio",
+          "curseforge": "https://map.mullv.studio"
         }
-    ]
+      }
+    },
+    {
+      "id": "1.0.1",
+      "releasedAt": 1771220274485,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "generic": "https://mullv.studio",
+          "curseforge": "https://map.mullv.studio"
+        }
+      }
+    },
+    {
+      "id": "1.0.2",
+      "releasedAt": 1771240474485,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "generic": "https://mullv.studio",
+          "curseforge": "https://map.mullv.studio"
+        }
+      }
+    },
+    {
+      "id": "1.0.3",
+      "releasedAt": 1771350461254,
+      "updateType": "minor",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "generic": "https://mullv.studio",
+          "curseforge": "https://map.mullv.studio"
+        }
+      }
+    },
+    {
+      "id": "1.0.4",
+      "releasedAt": 1771354566563,
+      "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "generic": "https://mullv.studio",
+          "curseforge": "https://map.mullv.studio"
+        }
+      }
+    },
+    {
+      "id": "1.1.0",
+      "releasedAt": 1771611633860,
+      "updateType": "incompatible",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "generic": "https://mullv.studio",
+          "curseforge": "https://map.mullv.studio"
+        }
+      }
+    },
+    {
+      "id": "1.1.1",
+      "releasedAt": 1771623505953,
+      "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "generic": "https://mullv.studio",
+          "curseforge": "https://map.mullv.studio"
+        }
+      }
+    },
+    {
+      "id": "1.1.2",
+      "releasedAt": 1771718918150,
+      "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "generic": "https://mullv.studio",
+          "curseforge": "https://map.mullv.studio"
+        }
+      }
+    }
+  ]
 }
