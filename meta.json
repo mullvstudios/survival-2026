@@ -9,7 +9,7 @@
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/survival-2026",
-          "generic": "https://mullv.studio",
+          "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
       }
@@ -21,7 +21,7 @@
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/survival-2026",
-          "generic": "https://mullv.studio",
+          "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
       }
@@ -33,7 +33,7 @@
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/survival-2026",
-          "generic": "https://mullv.studio",
+          "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
       }
@@ -45,7 +45,7 @@
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/survival-2026",
-          "generic": "https://mullv.studio",
+          "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
       }
@@ -57,7 +57,7 @@
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/survival-2026",
-          "generic": "https://mullv.studio",
+          "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
       }
@@ -69,7 +69,7 @@
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/survival-2026",
-          "generic": "https://mullv.studio",
+          "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
       }
@@ -81,7 +81,7 @@
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/survival-2026",
-          "generic": "https://mullv.studio",
+          "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
       }
@@ -93,7 +93,19 @@
       "promotions": {
         "downloads": {
           "modrinth": "https://modrinth.com/modpack/survival-2026",
-          "generic": "https://mullv.studio",
+          "generic": "https://mc.mullv.studio",
+          "curseforge": "https://map.mullv.studio"
+        }
+      }
+    },
+    {
+      "id": "1.2.0",
+      "releasedAt": 1772236148990,
+      "updateType": "major",
+      "promotions": {
+        "downloads": {
+          "modrinth": "https://modrinth.com/modpack/survival-2026",
+          "generic": "https://mc.mullv.studio",
           "curseforge": "https://map.mullv.studio"
         }
       }
