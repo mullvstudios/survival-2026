@@ -1,0 +1,39 @@
+# V 1.2.0
+
+**Content & Features Update**  
+February 28, 2026
+
+## Added Mods
+
+- **[Colorwheel](https://modrinth.com/mod/BzHgFoGz)** [1.2.1] - Enables shaders to work with Create's Flywheel rendering for better performance
+- **[Controlify](https://modrinth.com/mod/DOUdJVEm)** [3.0.0-beta.3] - Full controller support with vibration, gyro aiming, and radial menus
+- **[Cool Rain](https://modrinth.com/mod/IgftU6Mn)** [1.0.1] - Enhanced rain visuals and effects
+- **[Create Crafts & Additions](https://modrinth.com/mod/kU1G12Nn)** [1.5.10] - Adds electricity generation and electric motors to Create
+- **[Create: Trading Floor](https://modrinth.com/mod/WROfLLvn)** [3.0.16] - Automated trading systems for Create
+- **[Drippy Early Loading Module](https://modrinth.com/mod/k3TlcLvL)** - Improves loading performance
+- **[Exposure Polaroid](https://modrinth.com/mod/WEWiqYkW)** [1.1.2] - Take in-game photos and create polaroids
+- **[Exposure: Expanded](https://modrinth.com/mod/61XQmq6p)** [1.0.1] - Additional features for the Exposure mod
+- **[Immersive Thunder](https://modrinth.com/mod/uKjKoMsj)** [1.2.2] - Realistic thunder sounds and effects
+- **[Just Zoom](https://modrinth.com/mod/iAiqcykM)** [2.1.0] - Simple zoom functionality
+- **[Surveystones](https://modrinth.com/mod/f3WJvB4r)** [2.0.3] - Place survey markers for exploration and planning
+
+## What's New
+
+- Singleplayer mode is now fully supported
+- Controller support with full vibration and gyro capabilities
+- Electricity system added through Create Crafts & Additions
+- Photography system for capturing and sharing moments
+- Better shader compatibility with Create contraptions
+
+## Performance & Fixes
+
+- General performance improvements
+- Multiple bug fixes and stability improvements
+
+## Notes
+
+This is a major content update adding new gameplay features. Existing worlds are compatible with this version.
+
+***
+
+*MullV Studios - [[mullv.studio](https://mullv.studio/)](https://mullv.studio)*
